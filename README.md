@@ -1,1 +1,1 @@
-# afisha
+Java project Afisha
