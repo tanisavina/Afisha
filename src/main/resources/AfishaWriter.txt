@@ -1,0 +1,24 @@
+date=Wed Nov 30 00:00:00 MSK 2016, title=Impressionizm, time=09:00, place=exhibition, cost=1.5, author=Petrov, theme=Art
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2, rating=5.0, genre=COMEDY
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.5,  singer=Ivanov
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.50, author=Ivanov, theme=30.11.2016
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.50,  singer=Ivanov
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2.00, rating=5.0, genre=COMEDY
+date=Wed Nov 30 00:00:00 MSK 2016, title=Impressionizm, time=09:00, place=exhibition, cost=1.5, author=Petrov, theme=Art
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.5,  singer=Ivanov
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2, rating=5.0, genre=COMEDY
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.50, author=Ivanov, theme=30.11.2016
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2.00, rating=5.0, genre=COMEDY
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.50,  singer=Ivanov
+date=Wed Nov 30 00:00:00 MSK 2016, title=Impressionizm, time=09:00, place=exhibition, cost=1.5, author=Petrov, theme=Art
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.5,  singer=Ivanov
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2, rating=5.0, genre=COMEDY
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2.00, rating=5.0, genre=COMEDY
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.50,  singer=Ivanov
+date=Wed Nov 30 00:00:00 MSK 2016, title=Impressionizm, time=09:00, place=ArtMuzeum, cost=1.50, author=Petrov, theme=Art
+date=2016-11-30, title=Impressionizm, time=09:00, place=ArtMuzeum, cost=5, author=Petrov, theme=Art
+date=2016-11-12, title=White shark, time=18:30, place=Moskva, cost=2, rating=5.0, genre=COMEDY
+date=2016-11-23, title=Snegurochka, time=17:00, place=Russkiy, cost=5,  singer=Ivanov
+date=Wed Nov 23 00:00:00 MSK 2016, title=Snegurochka, time=17:00, place=Russkiy, cost=4.5,  singer=Ivanov
+date=Sat Nov 12 00:00:00 MSK 2016, title=White shark, time=18:30, place=Moskva, cost=2, rating=5.0, genre=COMEDY
+date=Wed Nov 30 00:00:00 MSK 2016, title=Impressionizm, time=09:00, place=ArtMuzeum, cost=1.5, author=Petrov, theme=Art

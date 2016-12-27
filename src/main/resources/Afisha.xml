@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<afisha city="Minsk" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.htp.by" xsi:schemaLocation="http://www.htp.by AfishaXMLSchema.xsd"> 
+	<events>
+		<film>
+			<title>White shark</title>
+			<date>2016-11-12</date>
+			<time>18:30</time>
+			<place>Moskva</place>
+			<cost>2.00</cost>
+			<genre>drama</genre>
+			<rating>5</rating>
+		</film>
+		<opera>
+			<title>Snegurochka</title>
+			<date>2016-11-23</date>
+			<time>17:00</time>
+			<place>Russkiy</place>
+			<cost>4.50</cost>
+			<singer>Ivanov</singer>
+		</opera>
+		<exhibition>
+			<title>Impressionizm</title>
+			<date>2016-11-30</date>
+			<time>09:00</time>
+			<place>Istor</place>
+			<cost>1.50</cost>
+			<author>Petrov</author>
+			<theme>Art</theme>
+		</exhibition>		
+	</events>
+</afisha>
